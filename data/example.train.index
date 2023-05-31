@@ -1,1 +1,11 @@
-gs://your-bucket/datasets/your.tfrecords
+gs://finetune/output/text10_368817.tfrecords
+gs://finetune/output/text11_305900.tfrecords
+gs://finetune/output/text12_288618.tfrecords
+gs://finetune/output/text2_209981.tfrecords
+gs://finetune/output/text3_209791.tfrecords
+gs://finetune/output/text4_211362.tfrecords
+gs://finetune/output/text6_253799.tfrecords
+gs://finetune/output/text7_247584.tfrecords
+gs://finetune/output/text8_251345.tfrecords
+gs://finetune/output/text9_235210.tfrecords
+gs://finetune/output/text_398900.tfrecords
