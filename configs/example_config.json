@@ -21,10 +21,10 @@
 
   "tpu_size": 8,
 
-  "bucket": "your-bucket",
-  "model_dir": "finetune_dir",
+  "bucket": "finetune",
+  "model_dir": "model",
 
-  "train_set": "example.train.index",
+  "train_set": "novels.train.index",
   "val_set": {},
 
   "eval_harness_tasks": [
@@ -35,7 +35,7 @@
   "ckpt_every": 72,
   "keep_every": 72,
 
-  "name": "example_model",
+  "name": "open-story-writer-6B",
   "wandb_project": "mesh-transformer-jax",
   "comment": ""
 }
