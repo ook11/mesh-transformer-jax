@@ -17,8 +17,8 @@ transformers
 smart_open[gcs]
 func_timeout
 ftfy
-fastapi
+fastapi<=0.78.0
 uvicorn
 lm_dataformat
 pathy
-fastapi<=0.78.0
+
