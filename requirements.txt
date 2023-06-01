@@ -6,7 +6,6 @@ requests~=2.25.1
 fabric~=2.6.0
 optax==0.0.9
 dm-haiku<=0.0.8
-git+https://github.com/EleutherAI/lm-evaluation-harness/
 ray[default]==1.4.1
 jax~=0.2.12
 Flask~=1.1.2
@@ -21,4 +20,4 @@ fastapi<=0.78.0
 uvicorn
 lm_dataformat
 pathy
-
+git+https://github.com/EleutherAI/lm-evaluation-harness/
