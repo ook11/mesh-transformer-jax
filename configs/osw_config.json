@@ -24,7 +24,7 @@
   "bucket": "finetune",
   "model_dir": "model",
 
-  "train_set": "novels.train.index",
+  "train_set": "novel.train.index",
   "val_set": {},
 
   "eval_harness_tasks": [
