@@ -20,4 +20,4 @@ fastapi<=0.78.0
 uvicorn
 lm_dataformat
 pathy
-git+https://github.com/EleutherAI/lm-evaluation-harness/
+
